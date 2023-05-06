@@ -1,5 +1,7 @@
 # project-node-contacts
 
+https://monosnap.com/list/645636484ba4bd911c77124a
+
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
 node index.js --action="list"
